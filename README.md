@@ -1,15 +1,15 @@
 # Instagram-User-Analytics--SQL-Project
 
-# PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
 The project focused on analyzing user interaction data to provide business insights. The primary goal is to use SQL to understand user behavior, identify potential issues like fake accounts, and deliver data-driven recommendations to a product team. The analysis is crucial for making informed decisions about the platform's future development and growth.
 
 ## PURPOSE OF THE PROJECT
 The purpose of this project is to analyze Instagram user interaction data using SQL to understand user behavior and generate meaningful business insights. It aims to identify inactive users, detect potential fake accounts, and support data-driven decisions for platform growth and improvement.
 
-### APPROACH USED
+## APPROACH USED
 My approach was to first understand the schemas and what all provided in this project. Then I went through all the tables and identified what all provided in that like user, likes, photos, tags etc. Then I used different queries to perform all the task provided. 
 
-#### ABOUT DATASET
+## ABOUT DATASET
 The dataset consists of Instagram user interaction data, including tables such as users, photos, likes, tags, and photo_tags. It captures user registrations, posting activity, engagement metrics, and hashtag usage for behavioral and business analysis.
 
 Users Table 
@@ -47,7 +47,7 @@ Photo_tags Table
 | 2        | 3      |
 | 3        | 2      |
 
-##### Questions to Answer
+## Questions to Answer
 
 A) Marketing Analysis:
 
